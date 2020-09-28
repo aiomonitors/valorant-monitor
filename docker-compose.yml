@@ -4,8 +4,8 @@ services:
     app:
         build: .
         environment: 
-            - COOKIES=
-            - WEBHOOK=
-            - USERNAME=
-            - TAGLINE=
+            - COOKIES=_ga=GA1.2.337350641.1598427849; __cfduid=d89a246bd7bd6b1c533886684549b4d931601319439; X-Mapping-Server=s9; __cflb=02DiuFQAkRrzD1P1mdm8JatZXtAyjoPD1ZQnTm3UMvBSC
+            - WEBHOOK=https://canary.discordapp.com/api/webhooks/760222793421553694/bKqTcGvONScMTD18VZdVcOf37JBf-gTVyGy_QBrFQhOz_vKRZXLD2cwBHdj0TgRWbAA2
+            - USERNAME=aiomonitors
+            - TAGLINE=1040
 
